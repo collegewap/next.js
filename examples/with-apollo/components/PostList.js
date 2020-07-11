@@ -35,7 +35,7 @@ export default function PostList() {
       notifyOnNetworkStatusChange: true,
     }
   )
-  console.log("render: ", loading, error, data, fetchMore, networkStatus);
+  console.log("render: ", { loading, error, data, fetchMore, networkStatus });
 
   const loadingMorePosts = networkStatus === NetworkStatus.fetchMore
 
