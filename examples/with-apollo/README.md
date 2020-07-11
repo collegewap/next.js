@@ -8,7 +8,7 @@ This example relies on [graph.cool](https://www.graph.cool) for its GraphQL back
 
 ## Demo
 
-[https://next-with-apollo.now.sh](https://next-with-apollo.now.sh)
+[https://next-js-murex-zeta.vercel.app/](https://next-js-murex-zeta.vercel.app/)
 
 ## Deploy your own
 
